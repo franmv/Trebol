@@ -1,0 +1,40 @@
+/*
+Theme Name: Moon by Osetin
+Theme URI: http://moon.pinsupreme.com
+Author: Tamik Soziev
+Author URI: http://soziev.com/
+Description: Gorgeous Photography Portfolio & Blog WordPress theme for creative bloggers and photographers.
+Version: 4.0.2
+License:
+License URI:
+Tags: black, blue, gray, white, yellow, dark, light, responsive-layout, custom-background, custom-colors, custom-menu, featured-images, post-formats
+Text Domain: moon-by-osetin
+*/
+
+.wp-caption {
+  max-width: 100%;
+}
+.wp-caption-text {
+  display: none;
+}
+.sticky {
+
+}
+.gallery-caption {
+
+}
+.bypostauthor {
+
+}
+.alignright {
+  text-align: right;
+}
+.alignleft {
+  text-align: left;
+}
+.aligncenter {
+  text-align: center;
+}
+
+img.alignleft { text-align: left; float: left; margin: 1em 1em 1em 0; }
+img.alignright { text-align: right; float: right; margin: 1em 0 1em 1em; }
